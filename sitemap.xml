@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://francebtp.vercel.app/</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/cover-image-frnace-btp.png</image:loc>
+      <image:title>France BTP - Entreprise de rénovation intérieure Paris et Île-de-France</image:title>
+      <image:caption>France BTP, spécialiste de la rénovation intérieure tout corps d'état à Paris et en Île-de-France</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/image1-logo-francebtp.png</image:loc>
+      <image:title>Logo France BTP</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/portfolio-01.png</image:loc>
+      <image:title>Plafond architectural avec éclairage indirect</image:title>
+      <image:caption>Rénovation de plafond architectural avec éclairage indirect dans une cuisine par France BTP</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/portfolio-02.png</image:loc>
+      <image:title>Revêtement mural texturé</image:title>
+      <image:caption>Mur décoratif texturé aux tons naturels réalisé par France BTP</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/portfolio-03.png</image:loc>
+      <image:title>Menuiseries et circulation intérieure</image:title>
+      <image:caption>Passage intérieur rénové avec menuiseries bois par France BTP</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/portfolio-04.png</image:loc>
+      <image:title>Habillage mural et éclairage</image:title>
+      <image:caption>Habillage mural texturé éclairé par un spot encastré par France BTP</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/portfolio-05.png</image:loc>
+      <image:title>Cuisine minimaliste rénovée</image:title>
+      <image:caption>Cuisine rénovée minimaliste avec crédence effet marbre par France BTP</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/portfolio-10.png</image:loc>
+      <image:title>Salle de bain en pierre naturelle</image:title>
+      <image:caption>Vasque et murs en pierre naturelle dans une salle de bain rénovée par France BTP</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://francebtp.vercel.app/assets/portfolio-13.png</image:loc>
+      <image:title>Salle de bain complète</image:title>
+      <image:caption>Salle de bain complète en pierre avec douche vitrée par France BTP</image:caption>
+    </image:image>
+  </url>
+</urlset>

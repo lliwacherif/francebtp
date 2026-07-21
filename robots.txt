@@ -1,0 +1,9 @@
+# Robots.txt - France BTP
+# https://francebtp.vercel.app
+
+User-agent: *
+Allow: /
+Disallow: /assets/Photos2/
+
+# Sitemaps
+Sitemap: https://francebtp.vercel.app/sitemap.xml
