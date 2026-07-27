@@ -1,0 +1,27 @@
+{
+  "name": "France BTP — Rénovation Paris 16e & 17e",
+  "short_name": "France BTP",
+  "description": "Entreprise de rénovation intérieure tout corps d'état à Paris 75016 et Paris 75017 : peinture, carrelage, plomberie, électricité, placo plâtre et salle de bain.",
+  "lang": "fr-FR",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f4f5f9",
+  "theme_color": "#1a2e49",
+  "categories": ["business", "home"],
+  "icons": [
+    {
+      "src": "assets/France_btp_logo_off-removebg-preview.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/France_btp_logo_off-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
