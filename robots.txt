@@ -1,26 +1,4 @@
-# Robots.txt — France BTP
-# https://francebtp.vercel.app
-# Local SEO focus: Paris 16e (75016) · Paris 17e (75017)
-
 User-agent: *
 Allow: /
-Allow: /assets/
-Allow: /sitemap.xml
-Allow: /robots.txt
 
-# Prefer the canonical homepage
-Crawl-delay: 0
-
-# Google
-User-agent: Googlebot
-Allow: /
-
-User-agent: Googlebot-Image
-Allow: /assets/
-
-# Bing
-User-agent: Bingbot
-Allow: /
-
-# Sitemap
 Sitemap: https://francebtp.vercel.app/sitemap.xml

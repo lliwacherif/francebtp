@@ -1,74 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://francebtp.vercel.app/</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://francebtp.vercel.app/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://francebtp.vercel.app/" />
     <image:image>
       <image:loc>https://francebtp.vercel.app/assets/cover-image-frnace-btp.png</image:loc>
-      <image:title>France BTP — Rénovation intérieure Paris 16e (75016) et Paris 17e (75017)</image:title>
-      <image:caption>France BTP, entreprise tout corps d'état : peinture, carrelage, plomberie, électricité, placo plâtre et salle de bain à Paris 75016 et 75017</image:caption>
-      <image:geo_location>Paris, France</image:geo_location>
+      <image:title>France BTP renovation interieure Paris 16e 75016 et Paris 17e 75017</image:title>
+      <image:caption>France BTP entreprise tout corps d etat peinture carrelage plomberie electricite placo et salle de bain a Paris 75016 et 75017</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://francebtp.vercel.app/assets/France_btp_logo_off-removebg-preview.png</image:loc>
       <image:title>Logo France BTP</image:title>
-      <image:caption>Logo officiel France BTP — rénovation intérieure Paris 16e et 17e</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://francebtp.vercel.app/assets/portfolio-01.png</image:loc>
-      <image:title>Plafond architectural — rénovation cuisine Paris 16e</image:title>
-      <image:caption>France BTP : plafond architectural et éclairage indirect, rénovation cuisine à Paris 75016</image:caption>
+      <image:title>Plafond architectural renovation cuisine Paris 16e</image:title>
     </image:image>
     <image:image>
       <image:loc>https://francebtp.vercel.app/assets/portfolio-05.png</image:loc>
-      <image:title>Cuisine rénovée — carrelage et finitions Paris 16e / 17e</image:title>
-      <image:caption>France BTP : rénovation cuisine minimaliste avec crédence effet marbre à Paris 16e et 17e</image:caption>
+      <image:title>Cuisine renovee carrelage Paris 16e 17e</image:title>
     </image:image>
     <image:image>
       <image:loc>https://francebtp.vercel.app/assets/portfolio-10.png</image:loc>
-      <image:title>Salle de bain pierre naturelle — Paris 75016</image:title>
-      <image:caption>France BTP : rénovation salle de bain et pierre naturelle à Paris 16e (75016)</image:caption>
+      <image:title>Salle de bain pierre naturelle Paris 75016</image:title>
     </image:image>
     <image:image>
       <image:loc>https://francebtp.vercel.app/assets/portfolio-13.png</image:loc>
-      <image:title>Rénovation complète salle de bain — Paris 16e et 17e</image:title>
-      <image:caption>France BTP : salle de bain complète en pierre avec douche vitrée, Paris 75016 et 75017</image:caption>
+      <image:title>Renovation complete salle de bain Paris 16e 17e</image:title>
     </image:image>
-  </url>
-  <url>
-    <loc>https://francebtp.vercel.app/#services</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://francebtp.vercel.app/#zones</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://francebtp.vercel.app/#realisations</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://francebtp.vercel.app/#faq</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://francebtp.vercel.app/#contact</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>
