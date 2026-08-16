@@ -224,3 +224,22 @@ lightbox?.addEventListener("click", (event) => {
 lightbox?.addEventListener("close", () => {
   if (lightboxImage) lightboxImage.src = "";
 });
+
+// Google Ads conversion tracking
+const contactForm = document.querySelector("[data-contact-form]");
+if (contactForm) {
+  contactForm.addEventListener("submit", () => {
+    if (typeof gtag_report_conversion === "function") {
+      gtag_report_conversion();
+    }
+  });
+}
+
+// Track direct WhatsApp and phone call actions as conversions
+document.querySelectorAll('a[href^="tel:"], a[href*="wa.me"]').forEach((link) => {
+  link.addEventListener("click", () => {
+    if (typeof gtag_report_conversion === "function") {
+      gtag_report_conversion();
+    }
+  });
+});

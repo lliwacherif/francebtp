@@ -10,6 +10,28 @@
 
       gtag('config', 'AW-18382085095');
     </script>
+
+    <!-- Event snippet for Submit lead form conversion page -->
+    <script>
+      function gtag_report_conversion(url) {
+        var callback = function () {
+          if (typeof(url) != 'undefined') {
+            window.location = url;
+          }
+        };
+        if (typeof gtag === 'function') {
+          gtag('event', 'conversion', {
+            'send_to': 'AW-18382085095/AmMiCO3frd8cEOe3ob1E',
+            'value': 1.0,
+            'currency': 'USD',
+            'event_callback': callback
+          });
+        } else if (typeof(url) != 'undefined') {
+          window.location = url;
+        }
+        return false;
+      }
+    </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
